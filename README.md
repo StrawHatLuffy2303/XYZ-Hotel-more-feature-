@@ -40,9 +40,6 @@
   <li>Once you decide to exit, the program will print a bill and allow you to pay with cash</li>
 </ol>
 
-<h2 style="color: #333;">License:</h2>
-<p>This program is released under the MIT License.</p>
-
 <h2 style="color: #333;">Contributing:</h2>
 <p>If you'd like to contribute to this project, please fork the repository and submit a pull request.</p>
 
